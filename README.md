@@ -12,15 +12,14 @@ Our quest was to unveil the mystic patterns that predict high booking rates, off
 - **Success Metric**: The AUC, a measure of our prophecy's accuracy, reached the zenith at 0.83.
 
 ## 🚀 Journey to the Summit
-1. **Data Wrangling**: Purifying the raw essence of data, preparing it for the alchemy of analysis.
+1. **Data Wrangling**: Purifying the raw essence of data, and preparing it for the alchemy of analysis.
 2. **Feature Engineering**: Weaving powerful features, capturing the very soul of high booking rates.
 3. **Model Training & Optimization**: Each model a step on the ladder, each parameter tuned to perfection.
-4. **Victory**: Our spells of prediction conquered the contest with an AUC of 0.83 and accuracy of 80%.
+4. **Victory**: Our spells of prediction conquered the contest with an AUC of 0.83 and an accuracy of 80%.
 
 ## 📜 How to Invoke the Magic
 - Prepare your cauldron with R and the enchanted packages (`xgboost`, `randomForest`, `caret`).
 - Clone this tome of knowledge.
-- Cast `Rscript predict_airbnb_booking.R` to start the divination.
 - 📁 To access the sacred data scrolls necessary for the divination, kindly send a raven (or just ping me here).
 
 ## 🌈 Contributions
